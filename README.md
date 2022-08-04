@@ -9,6 +9,8 @@
 
 Scriptable Widget that shows Current Balance of account chosen, logo of bank, and account name
 
+Note: rectangle at bottom is for future development, the design is supposed to try and match the Wallet widget
+
 ## Setup
 Initial Requirements
 
