@@ -20,7 +20,7 @@ How To
 
 * Obtain your keys from the Plaid API: variables needed are `client_id`, `secret`, `access-token`
 
-* Choose which environment you will be in. this will be provided in Plaids Documentation, in the example it is set to `Sandbox`
+* Choose which environment you will be in. this will be provided in Plaids Documentation, in the example it is set to `sandbox`
 
 * Get a PNG file of your selected bank, the size is 15x15 in the example (any file can go there in case you want to add your own flair)
 
