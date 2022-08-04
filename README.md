@@ -41,7 +41,7 @@ let t = "https://sandbox.plaid.com/accounts/balance/get";
 This project wouldn't have happened without.
 
 - [Plaid API's Documentation](https://plaid.com/docs/quickstart/)
-  for providing an incredible quick start guide as weill as all the Endpoints premade within Postman.
+  for providing an incredible quick start guide as well as all the Endpoints premade within Postman.
 
 ### Support Me
 
