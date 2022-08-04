@@ -31,13 +31,6 @@ let auth = {
 	secret:"YOUR SECRET",
 	access_token:"YOUR ACCESS TOKEN"};
 let t = "https://sandbox.plaid.com/accounts/balance/get";
-let s = new Request(t);
-	s.method = "POST";
-	s.headers = {"Content-Type":"application/json"};
-	s.body = JSON.stringify(auth);
-let e = await s.loadJSON();
-let a = "$"+ e.accounts[0].balances.current.toString();
-let l = e.accounts[0].name.toString();
 ```
 
 * Upload Balance.JS file to Scriptable and add it to your Homescreen
