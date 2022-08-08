@@ -15,7 +15,7 @@ Note: rectangle at bottom is for future development, the design is supposed to t
 Initial Requirements
 
 * [Scriptable](https://scriptable.app/)
-* Plaid API Development/Production key
+* Plaid API Development Key OR Production key
 * png of your Bank logo
 --------------
 How To
