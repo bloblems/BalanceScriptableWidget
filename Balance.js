@@ -3,14 +3,14 @@
 // icon-color: deep-brown; icon-glyph: magic;
 const widget = new ListWidget();
 
-const chaselogo = await loadImage("YOUR BANK LOGO URL");
+const chaselogo = await loadImage("https://www.pngall.com/wp-content/uploads/13/Chase-Logo-PNG-Cutout.png");
 const rect = await loadImage("https://assets.codepen.io/4271835/rect.png");
 
 // API Call
 let auth = {
-	client_id:"YOUR CLIENT_ID",
-	secret:"YOUR SECRET",
-	access_token:"YOUR ACCESS TOKEN"};
+	client_id:"65b58e05fcc446001b57d0c4",
+	secret:"9dda76b184c1b2e4ed3745b9eb7274",
+	access_token:"deb99cb576ca011666b65ef3eafe43"};
 let t = "https://sandbox.plaid.com/accounts/balance/get";
 let s = new Request(t);
 	s.method = "POST";
